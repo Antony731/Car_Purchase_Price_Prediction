@@ -13,5 +13,5 @@ You are working as a car salesman and you would like to develop a model to predi
 <h2>The model should predict:<h2>
 <li>Car Purchase Amount
 <h2>Method used<h2>
-Artificial Neural Network is used to perform regression and
-predict the car purchase price
+<p>Artificial Neural Network is used to perform regression and
+predict the car purchase price<p>
