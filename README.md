@@ -10,11 +10,11 @@ You are working as a car salesman and you would like to develop a model to predi
 * Credit Card Debt
 * Net Worth 
 
-# The model should predict:
+## What the model should predict
 
 Car Purchase Amount
   
-# Method used
+## Method used
 
 Artificial Neural Network is used to perform regression and
 predict the car purchase price
